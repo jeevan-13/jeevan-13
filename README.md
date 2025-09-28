@@ -4,7 +4,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=1ABC9C&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Explorer;Software+Engineer;Always+Learning+New+Things" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=1ABC9C&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Software+Engineer;Always+Learning+New+Things" alt="Typing animation" />
 </p>
 
 ---
@@ -53,10 +53,10 @@
 <p align="center">
   <!-- Add only your actual repositories here -->
   <a href="https://github.com/jeevan-13/Repo1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevan-13&repo=Repo1&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevan-13&repo=https://github.com/jeevan-13/llm_sql_agent&theme=radical" />
   </a>
   <a href="https://github.com/jeevan-13/Repo2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevan-13&repo=Repo2&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevan-13&repo=https://github.com/jeevan-13/cinelog&theme=radical" />
   </a>
 </p>
 

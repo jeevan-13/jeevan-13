@@ -4,7 +4,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=1ABC9C&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Software+Engineer;Always+Learning+New+Things" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=1ABC9C&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Explorer;Software+Engineer;Always+Learning+New+Things" alt="Typing animation" />
 </p>
 
 ---
@@ -18,10 +18,32 @@
 
 ---
 
+## ⚡ Quick Highlights  
+
+- ⚙️ Built **production-grade APIs and microservices** with CI/CD pipelines  
+- ☁️ Deployed applications on **AWS (Lambda, S3, RDS, ECS, CloudFront, Cognito)**  
+- 🧩 Strong foundation in **system design, OOP, and distributed systems**  
+- 🔐 Hands-on experience with **JWT security, RBAC, and Dockerized deployments**  
+- 📊 Skilled in **AI/ML projects** (Deep Learning, NLP, Computer Vision)  
+
+---
+
+<details>
+  <summary>📌 Click to see my current focus</summary>
+
+- 🚀 Developing **AI/ML-powered applications** with Python & FastAPI  
+- 🛡️ Building **secure microservices** with Spring Boot, JWT, and Docker  
+- 💻 Creating **Java + React projects** to sharpen full-stack skills  
+- 🤖 Exploring **LangChain + OpenAI agents** for real-world automation  
+
+</details>
+
+---
+
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,react,nodejs,spring,aws,docker,kubernetes,mongodb,postgresql,mysql,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,react,nodejs,spring,fastapi,tensorflow,pytorch,opencv,aws,docker,kubernetes,mongodb,postgresql,mysql,git" />
 </p>
 
 **Languages:** Python, Java, JavaScript, SQL, C, C++, HTML, CSS, Shell scripting  
@@ -48,27 +70,7 @@
 
 ---
 
-## 📂 My Repositories  
-
-<p align="center">
-  <!-- Add only your actual repositories here -->
-  <a href="https://github.com/jeevan-13/Repo1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevan-13&repo=https://github.com/jeevan-13/llm_sql_agent&theme=radical" />
-  </a>
-  <a href="https://github.com/jeevan-13/Repo2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevan-13&repo=https://github.com/jeevan-13/cinelog&theme=radical" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/jeevan-13?tab=repositories">
-    🔗 View all my repositories »
-  </a>
-</p>
-
----
-
-## 📫 Connect With Me  
+## 🤝 Let’s Work Together  
 
 <p align="center">
   <a href="mailto:jeevanreddypalicherla@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -80,4 +82,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jeevan-13&label=Profile+Views&color=brightgreen&style=flat-square" alt="views" />
 </p>
-

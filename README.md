@@ -4,7 +4,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=1ABC9C&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Explorer;Software+Engineer;Always+Learning+New+Things" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=1ABC9C&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Software+Engineer;Always+Learning+New+Things" alt="Typing animation" />
 </p>
 
 ---
@@ -49,7 +49,7 @@
 **Languages:** Python, Java, JavaScript, SQL, C, C++, HTML, CSS, Shell scripting  
 **Frameworks & Libraries:** React.js, Node.js, Spring Boot, FastAPI, TensorFlow, Keras, OpenCV, LangChain, SQLAlchemy, Tkinter  
 **Databases:** MongoDB, PostgreSQL, MySQL, DynamoDB  
-**Cloud & DevOps:** AWS (Lambda, API Gateway, S3, CloudFront, Cognito, Amplify), GitLab CI/CD, Docker, Kubernetes  
+**Cloud & DevOps:** AWS (Lambda, API Gateway, S3, CloudFront, Cognito, Amplify), CI/CD, Docker, Kubernetes  
 **Testing & Tools:** Git, PyTest, Postman, Ansible, JIRA, VS Code  
 
 ---
@@ -73,12 +73,14 @@
 ## 🤝 Let’s Work Together  
 
 <p align="center">
-  <a href="mailto:jeevanreddypalicherla@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/jeevan-kumar-reddy-palicherla-240063175/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jeevanreddypalicherla@gmail.com">
+    <img src="https://img.shields.io/badge/📧 Email Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jeevan-kumar-reddy-palicherla-240063175/">
+    <img src="https://img.shields.io/badge/💼 LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/jeevan-13">
+    <img src="https://img.shields.io/badge/⚡ Hire Me-333333?style=for-the-badge&logo=monster&logoColor=white" />
+  </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jeevan-13&label=Profile+Views&color=brightgreen&style=flat-square" alt="views" />
-</p>

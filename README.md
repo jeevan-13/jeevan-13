@@ -73,14 +73,7 @@
 ## 🤝 Let’s Work Together  
 
 <p align="center">
-  <a href="mailto:jeevanreddypalicherla@gmail.com">
-    <img src="https://img.shields.io/badge/📧 Email Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/jeevan-kumar-reddy-palicherla-240063175/">
-    <img src="https://img.shields.io/badge/💼 LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/jeevan-13">
-    <img src="https://img.shields.io/badge/⚡ Hire Me-333333?style=for-the-badge&logo=monster&logoColor=white" />
-  </a>
+  <a href="mailto:jeevanreddypalicherla@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jeevan-kumar-reddy-palicherla-240063175/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
